@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://c.wallhere.com/photos/c9/d6/samurai_Japanese_Art_trees_flowers_pink_flowers_artwork-1536725.jpg!d);
+    font-family: sans-serif;
+    padding: 20px;
+}
+main{
+    text-align: center;
+}
+aside{
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    color: blueviolet;
+}
+h2{
+    font-size: 30px;
+    color: darkviolet;
+}
+h3 {
+    font-size: 20px;
+    color:cornflowerblue
+}

@@ -1,0 +1,113 @@
+body {
+    background-image: url(https://img.freepik.com/premium-photo/set-different-kinds-sushi-rolls-with-salmon-shrimp-vegetables-black-rustic_220768-14019.jpg?w=1380);
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: darkorchid;
+  }
+  
+  h2 {
+    font-size: 30px;
+    color: orangered;
+  }
+  
+  .established {
+    font-style: italic;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+  }
+  
+  .menu {
+    width: 80%;
+    background-color: lightseagreen;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+    height: 40px;
+    
+  }
+  
+  hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
+  
+  .bottom-line {
+    margin-top: 25px;
+  }
+  
+  h1, h2 {
+    font-family: Impact, serif;
+  }
+  
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .flavor, .dessert {
+    text-align: left;
+    width: 75%;
+    font-family: fantasy;
+  }
+  
+  .price {
+    text-align: right;
+    width: 25%;
+    font-family: fantasy;
+  }
+  
+  /* FOOTER */
+  
+  footer {
+    font-size: 14px;
+  }
+  
+  .address {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: blue;
+  }
+  
+  a:visited {
+    color:lightseagreen;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
+  h3{
+    text-align: center;
+  }
+  .small{
+    text-align: center;
+  }
+  nav {
+    color:lightseagreen;
+  }
+ 
+    
